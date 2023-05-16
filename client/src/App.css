@@ -1,0 +1,9 @@
+.book-wrap {
+                    display: flex;
+                    flex-wrap: wrap;
+                  }
+                  
+                  .book-wrap div {
+                    width: 20%;
+                    border: 1px black solid;
+                  }
